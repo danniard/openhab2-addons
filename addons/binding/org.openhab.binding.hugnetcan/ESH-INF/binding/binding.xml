@@ -6,6 +6,6 @@
 
 	<name>HugnetCAN Binding</name>
 	<description>This is the binding for HugnetCAN.</description>
-	<author>dpavek</author>
+	<author>danniard</author>
 
 </binding:binding>
